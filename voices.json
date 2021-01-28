@@ -1,0 +1,1801 @@
+[
+  {
+    "code": "ar",
+    "language": "Arabic",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Zeina",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ar-XA-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Laila",
+        "ssml": false
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ar-XA-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ar-XA-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Nuance",
+        "name": "Maged",
+        "ssml": false
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Nuance",
+        "name": "Tarik",
+        "ssml": false
+      },
+      {
+        "style": 7,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ar-XA-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "bn-IN",
+    "language": "Bengali",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "bn-IN-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "bn-IN-Standard-B",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "ca-ES",
+    "language": "Catalan, Valencian",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Montserrat",
+        "ssml": false
+      },
+      {
+        "style": 1,
+        "gender": "Male",
+        "provider": "Nuance",
+        "name": "Jordi",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "cmn-CN",
+    "language": "Chinese, Mandarin",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Zhiyu",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "cmn-CN-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "cmn-CN-Standard-D",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Tian-Tian",
+        "ssml": false
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "cmn-CN-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "cmn-CN-Standard-C",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "cmn-TW",
+    "language": "Chinese, Mandarin (Taiwan)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Mei-Jia",
+        "ssml": false
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "cmn-TW-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "cmn-TW-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "cmn-TW-Standard-C",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "cs-CZ",
+    "language": "Czech",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "cs-CZ-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Iveta",
+        "ssml": false
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Zuzana",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "cy-GB",
+    "language": "Welsh",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Gwyneth",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "da-DK",
+    "language": "Danish",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Naja",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "da-DK-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Mads",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "da-DK-Standard-D",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "da-DK-Standard-E",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "da-DK-Standard-C",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "de-DE",
+    "language": "German",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Marlene",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Vicki",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "de-DE-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Hans",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "de-DE-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "de-DE-Standard-F",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "de-DE-Standard-E",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "el-GR",
+    "language": "Greek",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "el-GR-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Melina",
+        "ssml": false
+      },
+      {
+        "style": 2,
+        "gender": "Male",
+        "provider": "Nuance",
+        "name": "Nikos",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "en-AU",
+    "language": "English (Australia)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Nicole",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-AU-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-AU-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Russell",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "en-AU-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "en-AU-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "en-GB",
+    "language": "English (United Kingdom)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Amy",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Emma",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-GB-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-GB-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Brian",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "en-GB-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "en-GB-Standard-D",
+        "ssml": true
+      },
+      {
+        "style": 7,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-GB-Standard-F",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "en-GB-WLS",
+    "language": "English (Wales)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Geraint",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "en-IN",
+    "language": "English (India)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Aditi",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Raveena",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-IN-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "en-IN-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "en-IN-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-IN-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Kimberly",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Ivy",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Joanna",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Kendra",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Salli",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-US-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "en-US-Standard-E",
+        "ssml": true
+      },
+      {
+        "style": 7,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Joey",
+        "ssml": true
+      },
+      {
+        "style": 8,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Justin",
+        "ssml": true
+      },
+      {
+        "style": 9,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Matthew",
+        "ssml": true
+      },
+      {
+        "style": 10,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "en-US-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 11,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "en-US-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "en-ZA",
+    "language": "English (South Africa)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Tessa",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "es-ES",
+    "language": "Spanish (Spain)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Conchita",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Lucia",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "es-ES-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Empar",
+        "ssml": false
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Enrique",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "es-MX",
+    "language": "Spanish (Mexico)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Mia",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "es-US",
+    "language": "Spanish (United States)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Penelope",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Miguel",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Lupe",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "eu-ES",
+    "language": "Basque",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Miren",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "fi-FI",
+    "language": "Finnish",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "fi-FI-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Satu",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "fil-PH",
+    "language": "Filipino",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "fil-PH-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "fil-PH-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "fil-PH-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "fil-PH-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "fr-CA",
+    "language": "French (Canada)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Chantal",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "fr-CA-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "fr-CA-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "fr-CA-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "fr-CA-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "fr-FR",
+    "language": "French (France)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Celine",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Lea",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "fr-FR-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "fr-FR-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "fr-FR-Standard-E",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Mathieu",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "fr-FR-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 7,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "fr-FR-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "he-IL",
+    "language": "Hebrew",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Carmit",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "hi-IN",
+    "language": "Hindi",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Aditi",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "hi-IN-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Lekha",
+        "ssml": false
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "hi-IN-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "hi-IN-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "hi-IN-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "hu-HU",
+    "language": "Hungarian",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "hu-HU-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Mariska",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "id-ID",
+    "language": "Indonesian",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "id-ID-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Damayanti",
+        "ssml": false
+      },
+      {
+        "style": 2,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "id-ID-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "id-ID-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "id-ID-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "is-IS",
+    "language": "Icelandic",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Dora",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Karl",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "it-IT",
+    "language": "Italian",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Bianca",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Carla",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "it-IT-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "it-IT-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Giorgio",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "it-IT-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "it-IT-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "ja-JP",
+    "language": "Japanese",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Mizuki",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ja-JP-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ja-JP-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Takumi",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ja-JP-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ja-JP-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "ko-KR",
+    "language": "Korean",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Seoyeon",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ko-KR-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ko-KR-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Sora",
+        "ssml": false
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ko-KR-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ko-KR-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "ml-IN",
+    "language": "Malayalam",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ml-IN-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ml-IN-Standard-B",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "nb-NO",
+    "language": "Norwegian",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Liv",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "nb-NO-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "nb-NO-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "nb-no-Standard-E",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "nb-NO-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "nb-NO-Standard-D",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Nora",
+        "ssml": false
+      },
+      {
+        "style": 7,
+        "gender": "Male",
+        "provider": "Nuance",
+        "name": "Henrik",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "nl-NL",
+    "language": "Dutch",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Lotte",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "nl-NL-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "nl-NL-Standard-D",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "nl-NL-Standard-E",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Ruben",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "nl-NL-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "nl-NL-Standard-C",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "pl-PL",
+    "language": "Polish",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Ewa",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Maja",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "pl-PL-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "pl-PL-Standard-D",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "pl-PL-Standard-E",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Jacek",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Jan",
+        "ssml": true
+      },
+      {
+        "style": 7,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "pl-PL-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 8,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "pl-PL-Standard-C",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "pt-BR",
+    "language": "Portuguese (Brazil)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Vitoria",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "pt-BR-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Luciana",
+        "ssml": false
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Ricardo",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Nuance",
+        "name": "Felipe",
+        "ssml": false
+      },
+      {
+        "style": 5,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Camila",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "pt-PT",
+    "language": "Portuguese (Portugal)",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Ines",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "pt-PT-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "pt-PT-Standard-D",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Catarina",
+        "ssml": false
+      },
+      {
+        "style": 4,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Joana",
+        "ssml": false
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Cristiano",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "pt-PT-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 7,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "pt-PT-Standard-C",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "ro-RO",
+    "language": "Romanian",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Carmen",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Ioana",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "ru-RU",
+    "language": "Russian",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Tatyana",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ru-RU-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ru-RU-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ru-RU-Standard-E",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Male",
+        "provider": "Amazon Polly",
+        "name": "Maxim",
+        "ssml": true
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ru-RU-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ru-RU-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "sk-SK",
+    "language": "Slovak",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "sk-SK-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Laura",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "sv-SE",
+    "language": "Swedish",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Astrid",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "sv-SE-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Alva",
+        "ssml": false
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Nuance",
+        "name": "Oskar",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "ta-IN",
+    "language": "Tamil",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "ta-IN-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "ta-IN-Standard-B",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "te-IN",
+    "language": "Telugu",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "te-IN-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "te-IN-Standard-B",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "th-TH",
+    "language": "Thai",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Kanya",
+        "ssml": false
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "th-TH-Standard-A",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "tr-TR",
+    "language": "Turkish",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Amazon Polly",
+        "name": "Filiz",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "tr-TR-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "tr-TR-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "tr-TR-Standard-D",
+        "ssml": true
+      },
+      {
+        "style": 4,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Yelda",
+        "ssml": false
+      },
+      {
+        "style": 5,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "tr-TR-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 6,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "tr-TR-Standard-E",
+        "ssml": true
+      },
+      {
+        "style": 7,
+        "gender": "Male",
+        "provider": "Nuance",
+        "name": "Cem",
+        "ssml": false
+      }
+    ]
+  },
+  {
+    "code": "uk-UA",
+    "language": "Ukrainian",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "uk-UA-Standard-A",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "vi-VN",
+    "language": "Vietnamese",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "vi-VN-Standard-A",
+        "ssml": true
+      },
+      {
+        "style": 1,
+        "gender": "Female",
+        "provider": "Google",
+        "name": "vi-VN-Standard-C",
+        "ssml": true
+      },
+      {
+        "style": 2,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "vi-VN-Standard-B",
+        "ssml": true
+      },
+      {
+        "style": 3,
+        "gender": "Male",
+        "provider": "Google",
+        "name": "vi-VN-Standard-D",
+        "ssml": true
+      }
+    ]
+  },
+  {
+    "code": "yue-CN",
+    "language": "Chinese, Cantonese",
+    "styles": [
+      {
+        "style": 0,
+        "gender": "Female",
+        "provider": "Nuance",
+        "name": "Sin-Ji",
+        "ssml": false
+      }
+    ]
+  }
+]
