@@ -622,22 +622,6 @@
           "provider" : "Google",
           "ssml" : "true",
           "style" : 8
-        },
-        {
-          "gender" : "Male",
-          "name" : "Markus",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 9
-        },
-        {
-          "gender" : "Male",
-          "name" : "Yannick",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 10
         }
       ]
     },
@@ -888,38 +872,6 @@
           "provider" : "Google",
           "ssml" : "true",
           "style" : 7
-        },
-        {
-          "gender" : "Female",
-          "name" : "Kate",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 8
-        },
-        {
-          "gender" : "Female",
-          "name" : "Serena",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 9
-        },
-        {
-          "gender" : "Male",
-          "name" : "Daniel",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 10
-        },
-        {
-          "gender" : "Male",
-          "name" : "Oliver",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 11
         }
       ]
     },
@@ -1240,46 +1192,6 @@
           "style" : 14
         },
         {
-          "gender" : "Female",
-          "name" : "Allison",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 15
-        },
-        {
-          "gender" : "Female",
-          "name" : "Ava",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 16
-        },
-        {
-          "gender" : "Female",
-          "name" : "Samantha",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 17
-        },
-        {
-          "gender" : "Female",
-          "name" : "Susan",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 18
-        },
-        {
-          "gender" : "Female",
-          "name" : "Zoe",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 19
-        },
-        {
           "gender" : "Male",
           "name" : "en-US-Standard-A",
           "premium" : "false",
@@ -1326,14 +1238,6 @@
           "provider" : "Google",
           "ssml" : "true",
           "style" : 22
-        },
-        {
-          "gender" : "Male",
-          "name" : "Tom",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 23
         }
       ]
     },
@@ -1472,14 +1376,6 @@
           "provider" : "Google",
           "ssml" : "true",
           "style" : 8
-        },
-        {
-          "gender" : "Male",
-          "name" : "Jorge",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 9
         }
       ]
     },
@@ -1922,22 +1818,6 @@
           "provider" : "Google",
           "ssml" : "true",
           "style" : 7
-        },
-        {
-          "gender" : "Female",
-          "name" : "Aurelie",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 8
-        },
-        {
-          "gender" : "Male",
-          "name" : "Thomas",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 9
         }
       ]
     },
@@ -2322,30 +2202,6 @@
           "provider" : "Google",
           "ssml" : "true",
           "style" : 6
-        },
-        {
-          "gender" : "Female",
-          "name" : "Federica",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 7
-        },
-        {
-          "gender" : "Female",
-          "name" : "Paola",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 8
-        },
-        {
-          "gender" : "Male",
-          "name" : "Luca",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 9
         }
       ]
     },
@@ -2928,22 +2784,6 @@
           "provider" : "Google",
           "ssml" : "true",
           "style" : 6
-        },
-        {
-          "gender" : "Female",
-          "name" : "Claire",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 7
-        },
-        {
-          "gender" : "Male",
-          "name" : "Xander",
-          "premium" : "false",
-          "provider" : "Nuance",
-          "ssml" : "false",
-          "style" : 8
         }
       ]
     },
