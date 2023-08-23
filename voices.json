@@ -194,6 +194,14 @@
           "provider" : "Google",
           "ssml" : "true",
           "style" : 2
+        },
+        {
+          "style" : 3,
+          "premium" : "true",
+          "ssml" : "true",
+          "provider" : "Amazon Polly",
+          "name" : "Arlet",
+          "gender" : "Female"
         }
       ]
     },
@@ -3872,5 +3880,523 @@
           "style" : 0
         }
       ]
-    }
+    },
+      {
+    "code": "ca-ES",
+    "language": "Catalan, Valencian",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Arlet",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 3
+      }
+    ]
+  },
+  {
+    "code": "yue-CN",
+    "language": "Chinese, Cantonese (China)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Hiujin",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 1
+      }
+    ]
+  },
+  {
+    "code": "cmn-CN",
+    "language": "Chinese, Mandarin (China)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Zhiyu",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "en-GB",
+    "language": "English (Australia)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Olivia",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 8
+      }
+    ]
+  },
+  {
+    "code": "en-IN",
+    "language": "English (India)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Kajal",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 7
+      }
+    ]
+  },
+  {
+    "code": "en-NZ",
+    "language": "English (New Zealand)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Aria",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "en-ZA",
+    "language": "English (South Africa) ",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Ayanda",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 1
+      }
+    ]
+  },
+  {
+    "code": "en-GB",
+    "language": "English (United Kingdom)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Amy",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "en-GB",
+    "language": "English (United Kingdom)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Emma",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 1
+      }
+    ]
+  },
+  {
+    "code": "en-GB",
+    "language": "English (United Kingdom)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Brian",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 4
+      }
+    ]
+  },
+  {
+    "code": "en-GB",
+    "language": "English (United Kingdom)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Arthur",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 12
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Kimberly",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Ivy",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 1
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Joanna",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 2
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Kendra",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 3
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Salli",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 4
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Joey",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 7
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Justin",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 8
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Matthew",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 9
+      }
+    ]
+  },
+  {
+    "code": "en-US",
+    "language": "English (United States)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Kevin",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 24
+      }
+    ]
+  },
+  {
+    "code": "fr-CA",
+    "language": "French (Canada)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Gabrielle",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 8
+      }
+    ]
+  },
+  {
+    "code": "fr-CA",
+    "language": "French (Canada)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Liam",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 9
+      }
+    ]
+  },
+  {
+    "code": "fr-FR",
+    "language": "French (France)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Lea",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 1
+      }
+    ]
+  },
+  {
+    "code": "de-AT",
+    "language": "German (Austria)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Hannah ",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "de-DE",
+    "language": "German (Germany)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Vicki",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 1
+      }
+    ]
+  },
+  {
+    "code": "de-DE",
+    "language": "German (Germany)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Daniel",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 11
+      }
+    ]
+  },
+  {
+    "code": "hi-IN",
+    "language": "Hindi",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Kajal",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 6
+      }
+    ]
+  },
+  {
+    "code": "it-IT",
+    "language": "Italian",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Bianca",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "ja-JP",
+    "language": "Japanese",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Takumi",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 3
+      }
+    ]
+  },
+  {
+    "code": "ko-KR",
+    "language": "Korean",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Seoyeon",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "pt-BR",
+    "language": "Portuguese (Brazil)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Vitoria",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "pt-BR",
+    "language": "Portuguese (Brazil)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Camila",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 5
+      }
+    ]
+  },
+  {
+    "code": "pt-PT",
+    "language": "Portuguese (Portugal)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Ines",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "es-MX",
+    "language": "Spanish (Mexico)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Mia",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 0
+      }
+    ]
+  },
+  {
+    "code": "es-ES",
+    "language": "Spanish (Spain)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Lucia",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 1
+      }
+    ]
+  },
+  {
+    "code": "es-US",
+    "language": "Spanish (United States)",
+    "styles": [
+      {
+        "gender": "Female",
+        "name": "Lupe",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 2
+      }
+    ]
+  },
+  {
+    "code": "es-US",
+    "language": "Spanish (United States)",
+    "styles": [
+      {
+        "gender": "Male",
+        "name": "Pedro",
+        "premium": "True",
+        "provider": "Amazon Polly",
+        "ssml": "true",
+        "style": 6
+      }
+    ]
+  }
 ]
